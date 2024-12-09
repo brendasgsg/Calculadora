@@ -1,0 +1,7 @@
+ñublic class MiCalculadora {
+    // Este es el metodo principal, el punto de entrada del programa
+    public static void main(String[] args) {
+      
+      int suma = 5 + 5;
+            }
+}
